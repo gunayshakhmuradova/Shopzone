@@ -1,3 +1,8 @@
+
+![Shopzone 1](https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/7991f651-cc61-4aab-85c7-900af89785ea)
+![Shopzone 2](https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/5ffca97d-61ab-4935-99eb-4b89d2130dd5)
+![Shopzone 3](https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/9fd173a9-d184-43b9-895f-bad5e25a592a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
