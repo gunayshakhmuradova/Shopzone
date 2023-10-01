@@ -2,11 +2,11 @@
 <br><br>
 <b>This is a "Ecommerse Website" with React.js and Tailwind.css.</b>
 <br><br>
-<img src="" alt="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/7991f651-cc61-4aab-85c7-900af89785ea" width="480" height="240">
+<img src="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/7991f651-cc61-4aab-85c7-900af89785ea" alt="" width="480" height="240">
 <br><br>
-<img src="" alt="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/5ffca97d-61ab-4935-99eb-4b89d2130dd5" width="480" height="240">
+<img src="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/5ffca97d-61ab-4935-99eb-4b89d2130dd5" alt="" width="480" height="240">
 <br><br>
-<img src="" alt="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/9fd173a9-d184-43b9-895f-bad5e25a592a" width="480" height="240">
+<img src="https://github.com/gunayshakhmuradova/Shophzone/assets/126316477/9fd173a9-d184-43b9-895f-bad5e25a592a" alt="" width="480" height="240">
 <br><br>
 
 
